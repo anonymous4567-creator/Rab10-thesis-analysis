@@ -1,2 +1,2 @@
 # Rab10-thesis-analysis
-R scripts used for analysis of the antidiabetic compound screen
+R scripts and Fiji macros used to analyse the antidiabetic compound screen examining Rab10 phosphorylation in primary basal forebrain neurons.
